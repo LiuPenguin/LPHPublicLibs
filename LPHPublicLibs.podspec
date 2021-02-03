@@ -10,14 +10,14 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "LPHPublicLibs"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "LPHPublicLibs公有库"
   spec.description  = "LPHPublicLibs is 公有库 liupenghui创建"
 
   spec.homepage     = "https://github.com/LiuPenguin/LPHPublicLibs"
   spec.license      = "MIT"
   spec.author       = { "LiuPenguin" => "penguin_liu@163.com" }
-  spec.platform     = :ios
+  spec.ios.deployment_target = '9.0'
 
   spec.source       = { :git => "https://github.com/LiuPenguin/LPHPublicLibs.git", :tag => spec.version}
 
