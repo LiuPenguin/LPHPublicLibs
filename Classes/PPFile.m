@@ -12,7 +12,7 @@
 +(void)testFunPrint{
     NSLog(@"------PPFile-------%s",__func__);
 }
-
+//测试类方法
 +(void)testFile{
     NSLog(@"------PPFile-------%s",__func__);
 }
