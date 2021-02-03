@@ -22,7 +22,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/LiuPenguin/LPHPublicLibs.git", :tag => spec.version}
 
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
-
 
 end
