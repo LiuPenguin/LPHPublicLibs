@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "LPHPublicLibs"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "LPHPublicLibs公有库"
   spec.description  = "LPHPublicLibs is 公有库 liupenghui创建"
 
