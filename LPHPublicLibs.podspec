@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/LiuPenguin/LPHPublicLibs"
   spec.license      = "MIT"
-  spec.author             = { "Penguin_liu" => "penguin_liu@163.com" }
+  spec.author             = { "LiuPenguin" => "penguin_liu@163.com" }
   spec.platform     = :ios
 
   spec.source       = { :git => "https://github.com/LiuPenguin/LPHPublicLibs.git", :tag => spec.version}
