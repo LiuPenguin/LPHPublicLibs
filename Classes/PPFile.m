@@ -13,4 +13,8 @@
     NSLog(@"------PPFile-------%s",__func__);
 }
 
++(void)testFile{
+    NSLog(@"------PPFile-------%s",__func__);
+}
+
 @end

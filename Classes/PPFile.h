@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 +(void)testFunPrint;
 
++(void)testFile;
+
 @end
 
 NS_ASSUME_NONNULL_END
